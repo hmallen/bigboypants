@@ -7,7 +7,7 @@ import "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
 contract BigBoyPantsToken is ERC20 {
     // Values currently arbitrary placeholders
     string public name = "BigBoyPantsToken";
-    string public symbol = "BBP";
+    string public symbol = "PANTS";
     uint8 public decimals = 4;
     uint public INITIAL_SUPPLY = 1000000;
 }
